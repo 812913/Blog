@@ -1,0 +1,1 @@
+docker build -t hugoblog:v1.0.0 .
